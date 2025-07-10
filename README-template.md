@@ -34,7 +34,7 @@ Mobile Viewpoint:
 
 Browser Viewpoint:
 
-![assets/images/Screen Shot P2 Browser.png](https://github.com/StiTchD-WireD/P2-Blog-Preview-Card/edit/main/README-template.md#:~:text=Screenshot%20P2-,Browser,-.png)
+![Screenshot P2 Browser.png](assets/images/Screenshot%20P2%20Browser.png)
 
 ### Links
 
