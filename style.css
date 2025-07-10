@@ -1,0 +1,121 @@
+:root {
+  --yellow: hsl(47, 88%, 63%);
+  --white: hsl(0, 0%, 100%);
+  --gray-500: hsl(0, 0%, 42%);
+  --gray-950: hsl(0, 0%, 7%);
+
+
+    --font-family: 'Figtree', serif;
+    --font-size: 16px;
+    --font-weight-500: 500;
+    --font-weight-800: 800;
+}
+
+/*background*/
+body {
+    background-color: var(--yellow);
+}
+
+/*card background*/
+.card {
+    background-color: var(--white);
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+    padding: 20px;
+    margin: 30% auto;
+    width: 280px;
+    font-family: 'figtree', serif;
+}
+
+/*card-header*/
+.card-header > img {
+    border-radius: 20px;
+    width: 100%;
+    height: 120%;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: var(--yellow);
+    border: none;
+    border-radius: 5px;
+    color: var(--gray-950);
+    font-size: var(--font-size);
+    font-weight: var(--font-weight-800);
+    padding: 6px 15px;
+}
+
+.card-header > p {
+    font-size: 0.8rem;
+    font-weight: var(--font-weight-500);
+    margin-bottom: 20px;
+}
+
+
+/*card-body Heading and Anchor*/
+h2 {
+    font-size: 1.2rem;
+    font-weight: var(--font-weight-800);
+    letter-spacing: 0.1em;
+}
+
+h2:hover {
+    color: var(--yellow);
+    border-radius: 5px;
+}
+
+.card-body > a {
+    text-decoration: none;
+    color: var(--gray-950);
+}
+
+
+/*card-body*/
+.card-body > p {
+    font-size: 0.85em;
+    font-weight: var(--font-weight-500);
+    color: var(--gray-500);
+    line-height: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.card-footer {
+    display: flex;
+    align-items: center;
+}
+
+.card-footer > img {
+    width: 40px;
+    height: 40px;
+}
+
+.card-footer > p {
+    font-size: var(--font-size);
+    font-weight: var(--font-weight-800);
+    margin-left: 10px;
+    letter-spacing: 0.05em;
+}
+
+.card-footer > p:hover {
+    color: var(--yellow);
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    color: var(--gray-500);
+    font-size: 0.8em;
+}
+
+
+@media (min-width: 768px) {
+    .card {
+        margin: 10% auto;
+        width: 350px;
+    }
+
+    .card-body > p {
+        font-size: 1em;
+    }
+}
