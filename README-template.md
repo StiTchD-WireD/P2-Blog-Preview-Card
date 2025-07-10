@@ -30,7 +30,7 @@ Users should be able to:
 
 Mobile Viewpoint:
 
-![assets/images/Screen Shot P2 Mobile.png](assets/images/Screen%20Shot%20P2%20Mobile)
+![Screen Shot P2 Mobile.png](assets/images/Screen%20Shot%20P2%20Mobile.png)
 
 Browser Viewpoint:
 
