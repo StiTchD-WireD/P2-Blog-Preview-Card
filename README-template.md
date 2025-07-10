@@ -30,7 +30,7 @@ Users should be able to:
 
 Mobile Viewpoint:
 
-![assets/images/Screen Shot P2 Mobile.png](https://github.com/StiTchD-WireD/P2-Blog-Preview-Card/edit/main/README-template.md#:~:text=images-,Screen,-Shot%20P2%20Mobile)
+![assets/images/Screen Shot P2 Mobile.png](assets/images/Screen%20Shot%20P2%20Mobile)
 
 Browser Viewpoint:
 
