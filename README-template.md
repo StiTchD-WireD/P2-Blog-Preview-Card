@@ -38,8 +38,8 @@ Browser Viewpoint:
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com](https://github.com/StiTchD-WireD/P2-Blog-Preview-Card))
-- Live Site URL: [Add live site URL here](https://stitchd-wired.github.io/P2-Blog-Preview-Card/)
+- Solution URL: [Solution](https://github.com/StiTchD-WireD/P2-Blog-Preview-Card)
+- Live Site URL: [Live Site](https://stitchd-wired.github.io/P2-Blog-Preview-Card/)
 
 ## My process
 
